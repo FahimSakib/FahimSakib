@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hey 👋
+- I’m Fahim Sakib
+- I’m interested in web development
+- I’m currently learning Laravel
+- How to reach me: fsakib991@gmail.com
 <!--
 **FahimSakib/FahimSakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
