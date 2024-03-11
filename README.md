@@ -1,19 +1,10 @@
-### Hey 👋
-- I’m Fahim Sakib
-- I’m interested in web development
-- I’m currently learning Laravel
-- How to reach me: fsakib991@gmail.com
-<!--
-**FahimSakib/FahimSakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with 1+ years of experience in developing and maintaining web applications. Expertise in PHP, MySQL, Laravel, and React. Proven ability to work independently and as part of a team. Strong problem-solving and analytical skills. Passionate about using technology to solve real-world problems.
 
-Here are some ideas to get you started:
+- Developed many well-received Laravel web applications that solved real-world problems for users.
+- Developed mobile apps with Flutter for learning purpose.
+- Successfully migrated a legacy system to the cloud.
+- Presented at a local user group on the latest trends in software development.
+- 
+In addition to my web development skills, I am also proficient in C/C++, Java, and other programming languages. I am a quick learner and always eager to take on new challenges. I am also a team player and I am always willing to help others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am looking for a challenging and rewarding software engineering position where I can use my skills and experience to make a positive impact. I am confident that I can be a valuable asset to your team.
