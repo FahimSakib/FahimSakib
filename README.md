@@ -4,7 +4,7 @@ Software Engineer with 1+ years of experience in developing and maintaining web 
 - Developed mobile apps with Flutter for learning purpose.
 - Successfully migrated a legacy system to the cloud.
 - Presented at a local user group on the latest trends in software development.
-- 
+
 In addition to my web development skills, I am also proficient in C/C++, Java, and other programming languages. I am a quick learner and always eager to take on new challenges. I am also a team player and I am always willing to help others.
 
 I am looking for a challenging and rewarding software engineering position where I can use my skills and experience to make a positive impact. I am confident that I can be a valuable asset to your team.
