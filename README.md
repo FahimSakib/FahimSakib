@@ -1,4 +1,4 @@
-Software Engineer with 1+ years of experience in developing and maintaining web applications. Expertise in PHP, MySQL, Laravel, and React. Proven ability to work independently and as part of a team. Strong problem-solving and analytical skills. Passionate about using technology to solve real-world problems.
+Software Engineer with 2+ years of experience in developing and maintaining web applications. Expertise in PHP, MySQL, Laravel, and React. Proven ability to work independently and as part of a team. Strong problem-solving and analytical skills. Passionate about using technology to solve real-world problems.
 
 - Developed many well-received Laravel web applications that solved real-world problems for users.
 - Developed mobile apps with Flutter for learning purpose.
